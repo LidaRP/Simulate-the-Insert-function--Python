@@ -5,6 +5,6 @@ Enter a value from the list : ''')
 
 for i in range (len(lst)) :
        
-    if str(lst[i]) == str(value) :
+    if str(lst[i]) == value :
         
         print('Index of selected value is ',i)
